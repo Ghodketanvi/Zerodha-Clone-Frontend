@@ -38,3 +38,21 @@ code {
   border-radius: 10px;
   border: none;
 }
+.dashboard-button-container {
+  display: flex;
+  justify-content: flex-end; /* move to right side */
+  padding: 16px;
+}
+
+.dashboard-button {
+  padding: 8px 16px;
+  background-color: #0f8ff8;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.dashboard-button:hover {
+  background-color: #0c72c6;
+}
