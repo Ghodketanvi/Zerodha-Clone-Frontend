@@ -6,7 +6,7 @@ function Footer() {
       <div className="container border-top mt-5">
         <div className="row mt-5">
           <div className="col">
-            <img src="media/images/logo.svg" style={{ width: "50%" }} />
+            <img src="media/images/logo.svg" style={{ width: "50%" }} alt="Zerodha Logo" />
             <p>
               &copy; 2010 - 2024, Not Zerodha Broking Ltd. All rights reserved.
             </p>
@@ -28,43 +28,43 @@ function Footer() {
           </div>
           <div className="col">
             <p>Company</p>
-            <a href="" className="text-muted" style = {{textDecoration:"none"}}>About</a>
+            <a href="https://zerodha.com/about" className="text-muted" style = {{textDecoration:"none"}}>About</a>
             <br />
-            <a href="" className="text-muted" style ={{textDecoration:"none"}}>Products</a>
+            <a href="https://zerodha.com/products" className="text-muted" style ={{textDecoration:"none"}}>Products</a>
             <br />
-            <a href="" className="text-muted" style ={{textDecoration:"none"}}>Pricing</a>
+            <a href="https://zerodha.com/pricing" className="text-muted" style ={{textDecoration:"none"}}>Pricing</a>
             <br />
-            <a href="" className="text-muted" style ={{textDecoration:"none"}}>Referral programme</a>
+            <a href="https://zerodha.com/referral" className="text-muted" style ={{textDecoration:"none"}}>Referral programme</a>
             <br />
-            <a href="" className="text-muted" style ={{textDecoration:"none"}}>Careers</a>
+            <a href="https://zerodha.com/careers" className="text-muted" style ={{textDecoration:"none"}}>Careers</a>
             <br />
-            <a href=""className="text-muted" style ={{textDecoration:"none"}}>Zerodha.tech</a>
+            <a href="https://zerodha.com/tech" className="text-muted" style ={{textDecoration:"none"}}>Zerodha.tech</a>
             <br />
-            <a href="" className="text-muted" style ={{textDecoration:"none"}}>Press & media</a>
+            <a href="https://zerodha.com/press" className="text-muted" style ={{textDecoration:"none"}}>Press & media</a>
             <br />
-            <a href=""className="text-muted" style ={{textDecoration:"none"}}>Zerodha cares (CSR)</a>
+            <a href="https://zerodha.com/csr" className="text-muted" style ={{textDecoration:"none"}}>Zerodha cares (CSR)</a>
             <br />
           </div>
           <div className="col">
             <p>Support</p>
-            <a href="" className="text-muted" style ={{textDecoration:"none"}}>Contact</a>
+            <a href="https://zerodha.com/contact" className="text-muted" style ={{textDecoration:"none"}}>Contact</a>
             <br />
-            <a href="" className="text-muted" style ={{textDecoration:"none"}}>Support portal</a>
+            <a href="https://zerodha.com/support" className="text-muted" style ={{textDecoration:"none"}}>Support portal</a>
             <br />
-            <a href="" className="text-muted" style ={{textDecoration:"none"}}>Z-Connect blog</a>
+            <a href="https://zerodha.com/zconnect" className="text-muted" style ={{textDecoration:"none"}}>Z-Connect blog</a>
             <br />
-            <a href=""className="text-muted" style ={{textDecoration:"none"}}>List of charges</a>
+            <a href="https://zerodha.com/charges" className="text-muted" style ={{textDecoration:"none"}}>List of charges</a>
             <br />
-            <a href=""className="text-muted" style ={{textDecoration:"none"}}>Downloads & resources</a>
+            <a href="https://zerodha.com/downloads" className="text-muted" style ={{textDecoration:"none"}}>Downloads & resources</a>
             <br />
           </div>
           <div className="col">
             <p>Account</p>
-            <a href=""className="text-muted" style ={{textDecoration:"none"}}>Open an account</a>
+            <a href="https://zerodha.com/account" className="text-muted" style ={{textDecoration:"none"}}>Open an account</a>
             <br />
-            <a href=""className="text-muted" style ={{textDecoration:"none"}}>Fund transfer</a>
+            <a href="https://zerodha.com/fund-transfer" className="text-muted" style ={{textDecoration:"none"}}>Fund transfer</a>
             <br />
-            <a href=""className="text-muted" style ={{textDecoration:"none"}}>60 day challenge</a>
+            <a href="https://zerodha.com/60-day-challenge" className="text-muted" style ={{textDecoration:"none"}}>60 day challenge</a>
             <br />
           </div>
         </div>
