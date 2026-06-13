@@ -10,7 +10,7 @@ function Pricing() {
             We pioneered the concept of discount broking and price transparency
             in India. Flat fees and no hidden charges.
           </p>
-          <a href="" style={{ textDecoration: "none" }}>
+          <a href="https://zerodha.com/pricing" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none" }}>
             See Pricing{" "}
             <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
           </a>
